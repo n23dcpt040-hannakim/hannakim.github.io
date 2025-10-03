@@ -30,5 +30,5 @@ Mục tiêu là áp dụng quy trình phát triển phần mềm, từ **phân t
 - **Lab 05:** Project Report (`project_report.md`)  
 
 ##  Xem báo cáo
-[ Project Report](./project_report.md)
+https://github.com/n23dcpt006-nbin/NMCNPM-ATM
 
