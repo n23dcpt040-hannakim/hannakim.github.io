@@ -1,0 +1,35 @@
+Xin chào, tôi tên là [Nguyễn Hạnh Nhân].
+Hiện tại tôi đang là sinh viên năm ba ngành Công nghệ đa phương tiện, học tại Học viện Công nghệ Bưu chính Viễn thông.
+🔹 Sở thích:
+
+Học tiếng Anh
+
+Bơi lội
+
+Chạy bộ
+
+Thiết kế đồ họa & minh họa kỹ thuật số
+
+Nhiếp ảnh và chỉnh sửa ảnh
+
+🔹 Kỹ năng:
+
+Ngôn ngữ lập trình: Python, Java, JavaScript, SQL
+
+Công cụ: Git, Visual Studio Code, Jira, MySQL
+
+Phần mềm thiết kế: Photoshop, Illustrator, Figma, Canva
+
+Kiến thức cơ bản về thiết kế giao diện người dùng (UI/UX)
+
+Quy trình phát triển: Agile - Scrum, Waterfall
+
+🔹 Mục tiêu:
+
+Trở thành chuyên viên thiết kế đồ họa.
+
+Tham gia phát triển các sản phẩm vừa có tính ứng dụng cao vừa có trải nghiệm người dùng thân thiện.
+
+Không ngừng nâng cao kỹ năng công nghệ và tư duy sáng tạo trong lĩnh vực CNTT và thiết kế.
+
+Cảm ơn vì đã đọc phần giới thiệu của tôi.
